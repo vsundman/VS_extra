@@ -1,0 +1,39 @@
+
+Migrating a local website
+
+-------------------------------------------------------
+
+++on host gator scroll until you see home directory
+===
+Home directory - Installation Path
+===
+/home3/vsundman/public_html/awesome
+
+
+-------------------------------------------------------
+===
+Site URL
+===
+http://valeriesundman.com/awesome
+
+-------------------------------------------------------
+
+++go to my cpanel, under ftp accounts
+===
+FTP account (keep Quota unlimited)
+===
+login: awesome@valeriesundman.com
+password: nzuN,zT6.C?,
+
+-------------------------------------------------------
+===
+Database
+===
+db: 	vsundman_awesome
+user:	vsundman_vs
+pass:	b=[gAz~=HS%C
+
++++check ALL PRIVILEGES
+-------------------------------------------------------
+
+
